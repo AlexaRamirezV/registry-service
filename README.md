@@ -10,6 +10,11 @@ Servidor que mantiene un registro activo de todas las instancias de microservici
 3.  **Verificación:** Acceda a `http://localhost:8761`
 
 ---
+**Nota:** Con todas las APIs corriendo:
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/477e5888-c4cc-451d-95e3-93f8d50abba8" />
+
+---
 ### 🔗 Mapa de Arquitectura
 0. [Config data](https://github.com/AlexaRamirezV/config-data.git)
 1.  [Config Server](https://github.com/AlexaRamirezV/config-service.git)
@@ -21,7 +26,3 @@ Servidor que mantiene un registro activo de todas las instancias de microservici
    * [Customer](https://github.com/AlexaRamirezV/DWB-customer.git)
    * [Product](https://github.com/xEriis/Backend.git)
    * [Invoice](https://github.com/AlexaRamirezV/DWB-invoice.git)
----
-**Nota:** Con todas las APIs corriendo:
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/477e5888-c4cc-451d-95e3-93f8d50abba8" />
