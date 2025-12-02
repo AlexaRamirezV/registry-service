@@ -9,3 +9,13 @@ spring:
  cloud:
    config:
      uri: http://localhost:8888       # dónde está el config server
+
+# Admin-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,loggers,threaddump,heapdump
+  endpoint:
+    health:
+      show-details: always
