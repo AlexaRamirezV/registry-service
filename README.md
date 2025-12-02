@@ -21,3 +21,7 @@ Servidor que mantiene un registro activo de todas las instancias de microservici
    * [Customer](https://github.com/AlexaRamirezV/DWB-customer.git)
    * [Product](https://github.com/xEriis/Backend.git)
    * [Invoice](https://github.com/AlexaRamirezV/DWB-invoice.git)
+---
+**Nota:** Con todas las APIs corriendo:
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/477e5888-c4cc-451d-95e3-93f8d50abba8" />
